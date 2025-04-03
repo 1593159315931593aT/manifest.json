@@ -1,7 +1,7 @@
 {
-  "name": "موقعي الرائع",
-  "short_name": "موقعي",
-  "start_url": "/",
+  "name": "README.md",
+  "short_name": "cairoquran.blogspot.com",
+  "start_url": "https://cairoquran.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#008000",
